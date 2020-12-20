@@ -25,6 +25,8 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chegreyev)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://kit.systems/#/
 [linkedin]: https://www.linkedin.com/in/daniyar-chegreyev-0157901a2/
 [instagram]: https://www.instagram.com/chegreyev_/
