@@ -3,7 +3,7 @@
 ## I'm a 4th (hokage) student of SDU
 - Senior prokrastinator
 - Junior in everything
-- Currently working on a BizKit [website]
+- Currently working on a [BizKit][website]
 
 ### Connect with me
 [<img align="left" alt="chegreyev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
