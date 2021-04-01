@@ -1,8 +1,9 @@
 ### Hello everyone, I'm Daniyar - aka [chegreyev]
 
-## I'm a 4th (hokage) student of SDU
-- Senior prokrastinator
-- Junior in everything
+## Bachelor degree. Suleiman Demirel University. Engineering faculty
+- Interested in Telegram bots
+- Django Rest 
+- React - VueJS
 - Currently working on a [BizKit][website]
 
 ### Connect with me
