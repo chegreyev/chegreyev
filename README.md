@@ -4,7 +4,7 @@
 - Interested in Telegram bots
 - Django Rest 
 - React - VueJS
-- Currently working on a [BizKit][website]
+- Currently working on a Globerce inc.
 
 ### Connect with me
 [<img align="left" alt="chegreyev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
